@@ -1,6 +1,6 @@
 namespace pruebagit
 
-open System
+
 open System.Collections.Generic
 open System.IO
 open System.Linq
@@ -10,6 +10,7 @@ open Microsoft.AspNetCore.Hosting
 open Microsoft.Extensions.Configuration
 open Microsoft.Extensions.Hosting
 open Microsoft.Extensions.Logging
+open System
 
 module Program =
     let exitCode = 0
