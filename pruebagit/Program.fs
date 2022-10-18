@@ -6,11 +6,12 @@ open System.IO
 open System.Linq
 open System.Threading.Tasks
 open Microsoft.AspNetCore
+open System
 open Microsoft.AspNetCore.Hosting
 open Microsoft.Extensions.Configuration
 open Microsoft.Extensions.Hosting
 open Microsoft.Extensions.Logging
-open System
+
 
 module Program =
     let exitCode = 0
