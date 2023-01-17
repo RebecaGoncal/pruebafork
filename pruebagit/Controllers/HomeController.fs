@@ -35,3 +35,11 @@ type HomeController (logger : ILogger<HomeController>) =
 
     member this.Error () =
         this.View();
+
+     
+      member string name1 = "Aged Brie";
+      member string name2 = "Backstage passes to a TAFKAL80ETC concert";
+       member string name3 = "Sulfuras, Hand of Ragnaros";
+        
+
+       
